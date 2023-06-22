@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - QL_LKMT</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.2.3/dist/darkly/bootstrap.min.css" integrity="sha256-syOAESiOYggEI5Sdz6qwx3LywwxUXiI9fAfWtw1RMec=" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/QL_LKMT.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3 bg-black">
+            <div class="container ">
+                <div class="d-flex justify-content-between align-items-center w-100">
+                    <div>
+                        <a class="navbar-brand text-white h1" asp-area="" asp-controller="Home" asp-action="Index">
+                            Computer Components
+                        </a>
+
+                    </div>
+                    <div>
+                        <button class="navbar-toggler bg-white" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                                aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+
+                            <ul class="navbar-nav flex-grow-1">
+                                <li class="nav-item">
+                                    <a class="nav-link text-white btn btn-outline-success m-lg-1 border-0 @(ViewData["Title"] == "Home" ? "active" : "")" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-white btn btn-outline-success m-lg-1 border-0 @(ViewData["Title"] == "Customer" ? "active" : "")" asp-area="" asp-controller="Khachhangs" asp-action="Index">Customers</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-white btn btn-outline-success m-lg-1 border-0 @(ViewData["Title"] == "Typeproduct" ? "active" : "")" asp-area="" asp-controller="Loaisanphams" asp-action="Index">TypeProducts</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-white btn btn-outline-success m-lg-1 border-0 @(ViewData["Title"] == "Groupproduct" ? "active" : "")" asp-area="" asp-controller="Nhomsanphams" asp-action="Index">GroupProducts</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-white btn btn-outline-success m-lg-1 border-0 @(ViewData["Title"] == "Payment" ? "active" : "")" asp-area="" asp-controller="Phuongthucthanhtoans" asp-action="Index">Payment</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-white btn btn-outline-success m-lg-1 border-0 @(ViewData["Title"] == "Product" ? "active" : "")" asp-area="" asp-controller="Sanphams" asp-action="Index">Products</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-white btn btn-outline-success m-lg-1 border-0 @(ViewData["Title"] == "Trademark" ? "active" : "")" asp-area="" asp-controller="Thuonghieux" asp-action="Index">Trademarks</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - QL_LKMT - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

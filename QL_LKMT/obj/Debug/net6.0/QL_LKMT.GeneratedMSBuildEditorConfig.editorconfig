@@ -1,0 +1,181 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = QL_LKMT
+build_property.RootNamespace = QL_LKMT
+build_property.ProjectDir = D:\Workspace\WorkSpace\ASP.NET_CORE_MVC\QL_LKMT\QL_LKMT\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Workspace\WorkSpace\ASP.NET_CORE_MVC\QL_LKMT\QL_LKMT
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Admins/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Admins/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Admins/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Admins/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Admins/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Khachhangs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hoYW5nc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Khachhangs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hoYW5nc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Khachhangs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hoYW5nc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Khachhangs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hoYW5nc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Khachhangs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hoYW5nc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Loaisanphams/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNhbnBoYW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Loaisanphams/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNhbnBoYW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Loaisanphams/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNhbnBoYW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Loaisanphams/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNhbnBoYW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Loaisanphams/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNhbnBoYW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Nhomsanphams/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhvbXNhbnBoYW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Nhomsanphams/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhvbXNhbnBoYW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Nhomsanphams/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhvbXNhbnBoYW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Nhomsanphams/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhvbXNhbnBoYW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Nhomsanphams/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhvbXNhbnBoYW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Phuongthucthanhtoans/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGh1b25ndGh1Y3RoYW5odG9hbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Phuongthucthanhtoans/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGh1b25ndGh1Y3RoYW5odG9hbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Phuongthucthanhtoans/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGh1b25ndGh1Y3RoYW5odG9hbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Phuongthucthanhtoans/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGh1b25ndGh1Y3RoYW5odG9hbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Phuongthucthanhtoans/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGh1b25ndGh1Y3RoYW5odG9hbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Sanphams/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FucGhhbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Sanphams/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FucGhhbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Sanphams/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FucGhhbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Sanphams/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FucGhhbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Sanphams/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FucGhhbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Thuonghieux/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b25naGlldXhcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Thuonghieux/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b25naGlldXhcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Thuonghieux/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b25naGlldXhcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Thuonghieux/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b25naGlldXhcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Thuonghieux/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b25naGlldXhcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/WorkSpace/ASP.NET_CORE_MVC/QL_LKMT/QL_LKMT/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xsn6led3sl

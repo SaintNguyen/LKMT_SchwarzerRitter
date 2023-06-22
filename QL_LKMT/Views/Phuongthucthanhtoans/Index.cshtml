@@ -1,0 +1,54 @@
+﻿@model IEnumerable<QL_LKMT.Models.Phuongthucthanhtoan>
+
+@{
+    ViewData["Title"] = "Payment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Payment</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Tenthanhtoan)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdKhachhangNavigation.Ten)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdSanphamNavigation.Tensanpham)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdSanphamNavigation.Gia)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tenthanhtoan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdKhachhangNavigation.Ten)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdSanphamNavigation.Tensanpham)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdSanphamNavigation.Gia)
+                </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdThanhtoan">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdThanhtoan">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdThanhtoan">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

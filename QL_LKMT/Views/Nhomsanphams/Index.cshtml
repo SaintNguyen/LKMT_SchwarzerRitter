@@ -1,0 +1,48 @@
+﻿@model IEnumerable<QL_LKMT.Models.Nhomsanpham>
+
+@{
+    ViewData["Title"] = "Groupproduct";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Group Product</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Tennhom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ngaytao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ngaycapnhat)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tennhom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ngaytao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ngaycapnhat)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdNhom">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdNhom">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdNhom">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
